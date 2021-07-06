@@ -1,0 +1,8 @@
+ETH_PROVIDER = "ttps://rinkeby.infura.io/v3/60a07..."
+PRIVATE_KEY = "4ca69304f6..."
+ADDRESS = "0xF47145d93..."
+VALUE = 0.00001
+GAS = 44000
+GAS_PRICE = 8
+CHAIN_ID = 4
+RECIPIENTS = [""0x05b3e81b5..."]*10
